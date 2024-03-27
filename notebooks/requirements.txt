@@ -1,0 +1,10 @@
+imageio==2.34.0
+ipywidgets==8.1.2
+keras==2.13.1
+matplotlib
+numpy
+opencv-python
+pandas
+scikit-learn
+scipy
+tensorflow==2.13.1
