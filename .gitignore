@@ -1,3 +1,5 @@
+data/
+.ipynb*
 *.zip
 store/
 __pycache__/
