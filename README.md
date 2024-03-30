@@ -8,7 +8,7 @@ pip install -r requirements.txt
 ```
 
 # Methods
-We host two methods, ViT (best results) and GRU. In order to run ViT, all you have to do is to run `./notebooks/inference.ipynb`. 
+We host two methods, ViT (best results) and GRU. In order to run ViT, all you have to do is to run `./notebooks/inference_vit.ipynb`. 
 **Keep in mind** that you will need appropriate GPU hardware to do inference, as the ViT model is quite compute heavy.
 
 In order to run Movenet+GRU, navigate to `notebooks/gru_approach.ipynb`, change `dataset_dir` to appropriate test directory. It is expected to have 32 folders, the same as provided train dataset. Run the notebook end to end.
