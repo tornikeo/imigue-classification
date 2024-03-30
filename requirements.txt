@@ -1,7 +1,9 @@
-transformers[torch] 
+accelerate
+transformers[torch]
 datasets
 pyav
 torchvision
 evaluate
-numpy
-torch
+scikit-learn
+seaborn
+pandas

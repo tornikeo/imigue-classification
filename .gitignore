@@ -1,5 +1,5 @@
-data/
 .ipynb*
 *.zip
 store/
 __pycache__/
+.ipynb_checkpoints/
