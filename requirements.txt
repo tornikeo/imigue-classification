@@ -7,3 +7,6 @@ evaluate
 scikit-learn
 seaborn
 pandas
+ipykernel
+pooch
+tabulate
