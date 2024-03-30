@@ -1,33 +1,33 @@
 id,id2label,id2category
-C1,Turtle neck,Head
-C2,"Bulging face, deep breath",Head
-C3,Touching hat,Head-hand
-C4,Touching or scratching head,Head-hand
-C5,Touching or scratching forehead,Head-hand
-C6,Covering face,Head-hand
-C7,Rubbing eyes,Head-hand
-C8,Touching or scratching facial parts,Head-hand
-C9,Touching ears,Head-hand
-C10,Biting nails,Head-hand
-C11,Touching jaw,Head-hand
-C12,Touching or scratching neck,Body-hand
-C13,Playing with or adjusting hair,Body-hand
-C14,"Buckle button, pulling shirt collar, adjusting tie",Body-hand
-C15,Touching or covering suprasternal notch,Body-hand
-C16,Scratching back,Body-hand
-C17,Folding arms,Body-hand
-C18,Dustoffing clothes,Body-hand
-C19,Putting arms behind body,Body-hand
-C20,Moving torso,Body
-C21,Sitting upright,Body
-C22,Scratching or touching arms,Hand
-C23,Rubbing or holding hands,Hand
-C24,Crossing fingers,Hand
-C25,Minaret gesture,Hand
-C26,Playing with or manipulating objects,Hand
-C27,Hold back arms,Hand
-C28,Head up,Head
-C29,Pressing lips,Head
-C30,Arms akimbo,Hand
-C31,Shaking shoulders,Body
-C32,Illustrative body language,Illustrative
+0,Turtle neck,Head
+1,"Bulging face, deep breath",Head
+2,Touching hat,Head-hand
+3,Touching or scratching head,Head-hand
+4,Touching or scratching forehead,Head-hand
+5,Covering face,Head-hand
+6,Rubbing eyes,Head-hand
+7,Touching or scratching facial parts,Head-hand
+8,Touching ears,Head-hand
+9,Biting nails,Head-hand
+10,Touching jaw,Head-hand
+11,Touching or scratching neck,Body-hand
+12,Playing with or adjusting hair,Body-hand
+13,"Buckle button, pulling shirt collar, adjusting tie",Body-hand
+14,Touching or covering suprasternal notch,Body-hand
+15,Scratching back,Body-hand
+16,Folding arms,Body-hand
+17,Dustoffing clothes,Body-hand
+18,Putting arms behind body,Body-hand
+19,Moving torso,Body
+20,Sitting upright,Body
+21,Scratching or touching arms,Hand
+22,Rubbing or holding hands,Hand
+23,Crossing fingers,Hand
+24,Minaret gesture,Hand
+25,Playing with or manipulating objects,Hand
+26,Hold back arms,Hand
+27,Head up,Head
+28,Pressing lips,Head
+29,Arms akimbo,Hand
+30,Shaking shoulders,Body
+31,Illustrative body language,Illustrative
