@@ -5,3 +5,4 @@ __pycache__/
 .ipynb_checkpoints/
 !data/.gitignore
 model/
+vit-base-patch16-224-imigue/
